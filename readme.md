@@ -7,3 +7,4 @@ https://www.codepolitan.com/membangun-desktop-app-dengan-5-framework-javascript-
 https://garudacyber.co.id/artikel/99-tutorial-cara-membuat-qr-code-dengan-menggunakan-laravel    
 https://dev.to/andrewbaisden/how-to-deploy-a-node-express-app-to-vercel-2aa
 https://www.joomguide.com/free-mysql-hosting-remote-access-list-providers/  
+https://medium.com/@minhazav/qr-code-scanner-using-html-and-javascript-3895a0c110cd  

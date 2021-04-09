@@ -9,3 +9,4 @@ https://dev.to/andrewbaisden/how-to-deploy-a-node-express-app-to-vercel-2aa
 https://www.joomguide.com/free-mysql-hosting-remote-access-list-providers/  
 https://medium.com/@minhazav/qr-code-scanner-using-html-and-javascript-3895a0c110cd  
 https://vercel.com/docs/solutions/file-storage  
+https://www.geeksengine.com/database/data-manipulation/bulk-insert.php#:~:text=Using%20Bulk%20Insert%20Statement%20in%20MySQL&text=The%20INSERT%20statement%20in%20MySQL,parentheses%20and%20separated%20by%20commas.

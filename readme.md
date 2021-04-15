@@ -11,3 +11,4 @@ https://medium.com/@minhazav/qr-code-scanner-using-html-and-javascript-3895a0c11
 https://vercel.com/docs/solutions/file-storage  
 https://www.geeksengine.com/database/data-manipulation/bulk-insert.php#:~:text=Using%20Bulk%20Insert%20Statement%20in%20MySQL&text=The%20INSERT%20statement%20in%20MySQL,parentheses%20and%20separated%20by%20commas.  
 https://learning.postman.com/docs/writing-scripts/test-scripts/  
+- [express jwt](https://medium.com/easyread/gunakan-jwt-untuk-proteksi-rest-api-di-express-js-816df2c09ffc)

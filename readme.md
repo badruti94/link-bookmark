@@ -13,3 +13,4 @@ https://www.geeksengine.com/database/data-manipulation/bulk-insert.php#:~:text=U
 https://learning.postman.com/docs/writing-scripts/test-scripts/  
 - [express jwt](https://medium.com/easyread/gunakan-jwt-untuk-proteksi-rest-api-di-express-js-816df2c09ffc)
 - [git clean message](https://www.facebook.com/steven.johannes.9235/posts/437052370971663)
+- [rekomendasi-buku-bagus-wajib-dibaca](https://www.zenius.net/blog/rekomendasi-buku-bagus-wajib-dibaca)

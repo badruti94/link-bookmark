@@ -15,3 +15,4 @@ https://learning.postman.com/docs/writing-scripts/test-scripts/
 - [git clean message](https://www.facebook.com/steven.johannes.9235/posts/437052370971663)
 - [rekomendasi-buku-bagus-wajib-dibaca](https://www.zenius.net/blog/rekomendasi-buku-bagus-wajib-dibaca)
 - [ci 3 qr code](https://mfikri.com/artikel/cara-mudah-membuat-qr-code-atau-kode-qr-dengan-codeigniter.html)
+- [datatable](https://www.petanikode.com/jquery-data-tables/)

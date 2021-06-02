@@ -17,3 +17,4 @@ https://learning.postman.com/docs/writing-scripts/test-scripts/
 - [ci 3 qr code](https://mfikri.com/artikel/cara-mudah-membuat-qr-code-atau-kode-qr-dengan-codeigniter.html)
 - [datatable](https://www.petanikode.com/jquery-data-tables/)
 - [gaji 500 rb](https://id.quora.com/Bisakah-kamu-bertahan-sebulan-dengan-uang-hanya-500-ribu)
+- [ci 3 uuid](https://ozs.web.id/2016/01/contoh-penggunaan-fungsi-uuid-di-mysql-pada-codeigniter/)

@@ -23,4 +23,4 @@ https://learning.postman.com/docs/writing-scripts/test-scripts/
 - [mahabarata](https://mahabharata-tv.blogspot.com/2017/08/koleksi-mahabharata-dubbing-bahasa.html)
 - [python basic](https://medium.com/cyberdefendersprogram/python-for-cyber-security-lesson-1-introduction-to-python-1976d817976) 
 - [python for javascript developers](https://underdog.io/blog/python-for-javascript-developers)
-- [go](https://www.ad-ins.com/id/go-language-adalah/)
+- [mengapa go lang](https://www.ad-ins.com/id/go-language-adalah/)

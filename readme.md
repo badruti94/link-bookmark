@@ -22,3 +22,4 @@ https://learning.postman.com/docs/writing-scripts/test-scripts/
 - [download manhwa](https://www.batch-kun.com/2020/11/sweet-home-batch-pdf-bahasa-indonesia.html)
 - [mahabarata](https://mahabharata-tv.blogspot.com/2017/08/koleksi-mahabharata-dubbing-bahasa.html)
 - [python basic](https://medium.com/cyberdefendersprogram/python-for-cyber-security-lesson-1-introduction-to-python-1976d817976) 
+- [python for javascript developers](https://underdog.io/blog/python-for-javascript-developers)
